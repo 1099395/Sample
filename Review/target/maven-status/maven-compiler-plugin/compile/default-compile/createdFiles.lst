@@ -1,0 +1,5 @@
+com\tcs\mcoe\model\Review.class
+com\tcs\Application.class
+com\tcs\mcoe\controller\ReviewController.class
+com\tcs\mcoe\repository\ReviewRepository.class
+com\tcs\mcoe\utility\reviewValidation.class
